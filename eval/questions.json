@@ -1,0 +1,82 @@
+[
+  {
+    "question": "How many days per week can an eligible employee work remotely?",
+    "expected": "Up to three days per week",
+    "source": "page 1"
+  },
+  {
+    "question": "After how many days of employment do new employees become eligible for remote work?",
+    "expected": "After completing their first 30 calendar days of employment",
+    "source": "page 1"
+  },
+  {
+    "question": "What is the standard company-wide collaboration window?",
+    "expected": "10:00 AM to 4:00 PM IST, Monday through Friday",
+    "source": "page 1"
+  },
+  {
+    "question": "How many paid leave days does a full-time employee receive each year?",
+    "expected": "24 days per calendar year",
+    "source": "page 1"
+  },
+  {
+    "question": "How is the annual paid leave allocation divided?",
+    "expected": "18 days of general paid leave and 6 days of personal leave",
+    "source": "page 1"
+  },
+  {
+    "question": "How far in advance should planned leave normally be submitted?",
+    "expected": "At least five working days before the first day of leave",
+    "source": "page 2"
+  },
+  {
+    "question": "What is the receipt threshold for individual business expenses?",
+    "expected": "Receipts are required for individual expenses above INR 1,000",
+    "source": "page 2"
+  },
+  {
+    "question": "How long do employees have to submit travel expenses?",
+    "expected": "Within 30 calendar days of the expense date",
+    "source": "page 2"
+  },
+  {
+    "question": "Can confidential company documents be uploaded to personal cloud storage?",
+    "expected": "No, employees must not upload confidential company documents to personal cloud-storage accounts",
+    "source": "page 2"
+  },
+  {
+    "question": "Who should employees contact with questions about document retention?",
+    "expected": "The appropriate Operations or Legal contact",
+    "source": "page 5"
+  },
+  {
+    "question": "An employee has worked at Northstar for 45 days. Can they work remotely, assuming they are otherwise eligible?",
+    "expected": "Yes, since they have completed their first 30 calendar days",
+    "source": "page 1"
+  },
+  {
+    "question": "An employee spends INR 850 on a business expense. Is a receipt required?",
+    "expected": "No, receipts are required only above INR 1,000, but the expense should still be recorded accurately in the expense portal",
+    "source": "page 2"
+  },
+  {
+    "question": "What is Northstar Analytics' annual employee bonus percentage?",
+    "expected": "insufficient information",
+    "source": "none"
+  },
+  {
+    "question": "What is the company's parental leave duration?",
+    "expected": "insufficient information",
+    "source": "none"
+  },
+  {
+    "question": "What is the notice period for resigning from the company?",
+    "expected": "insufficient information",
+    "source": "none"
+  },
+  {
+    "question": "Who is the company's current CEO?",
+    "expected": "insufficient information",
+    "source": "none"
+  }
+]
